@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll": "explicit"
+  },
+  "prettier.singleAttributePerLine": false,
+  "prettier.printWidth": 120,
+  "prettier.tabWidth": 2,
+  "prettier.bracketSameLine": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.semi": true,
+  "prettier.useTabs": false,
+  "prettier.bracketSpacing": true,
+  "prettier.jsxSingleQuote": true
+}
